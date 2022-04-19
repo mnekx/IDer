@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# IDer
 
-> Description the project.
+> This is a helper app that aids in the IDentifiction process. Example in Health care, to be able to track patients even if they migrate from one region to another. It uses facial recognition in combination with an identifier.
 
 
 ## Built With
